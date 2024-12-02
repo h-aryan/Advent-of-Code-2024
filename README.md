@@ -1,24 +1,21 @@
-# Advent of Code - Day 1 Solution 🎄
+# 🎄Advent of Code 2024 Solutions 🎄
 
-This repository contains the solution for **Day 1** of the [Advent of Code 2024](https://adventofcode.com/2024/day/1). The problem involves processing two lists of numbers and performing computations based on their relationships.
+Welcome to my repository for **Advent of Code 2024**! This repository contains the solutions to the daily challenges for this year’s Advent of Code.
 
-## Problem Description
+## Overview
 
-### Part 1
+Advent of Code is an annual event where participants solve a series of programming puzzles, one each day, from December 1st to December 25th. The puzzles are typically algorithmic and challenge your problem-solving and coding skills.
 
-The task is to calculate the **total difference** between two lists of numbers:
-- Sort both lists.
-- Sum the absolute differences between corresponding elements in the sorted lists.
+## My Approach
 
-### Part 2
+As I work through the puzzles each day, I will solve the problem, write my solution, and post it here. I’ll be updating this repository regularly as I progress through the challenges. 
 
-The goal is to calculate a **similarity score**:
-- Count how many times each number in the left list appears in the right list.
-- Multiply each number in the left list by its count in the right list.
-- Sum up these products to compute the total similarity score.
+## Plan
 
-### Input Format
+- I will aim to solve each day's problem as soon as it's released.
+- Solutions will be posted after I’ve completed each challenge.
+- Code will be written in JS.
+  
+Check back regularly for updates as I work through the Advent of Code 2024 puzzles!
 
-The input is provided as a text file (`input.txt`), where each line contains two space-separated integers:
-- The first number belongs to the left list.
-- The second number belongs to the right list.
+Happy coding and good luck to everyone participating!
