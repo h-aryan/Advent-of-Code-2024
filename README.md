@@ -1,4 +1,4 @@
-# 🎄Advent of Code 2024 Solutions 🎄
+# 🎄 Advent of Code 2024 Solutions 🎄
 
 Welcome to my repository for **Advent of Code 2024**! This repository contains the solutions to the daily challenges for this year’s Advent of Code.
 
